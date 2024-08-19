@@ -18,14 +18,8 @@ No installation required! Just run the `calculator.py` script to start the appli
 2. Enter numbers and operators using the keyboard or mouse
 3. Press the "=" button to calculate the result
 
-## Dependencies
 
-* Python 3.x
-* [GUI framework] (e.g., Tkinter, PyQt, wxPython)
 
-## Contact
-
-If you have any questions or issues, feel free to contact me at [your email] or visit my GitHub profile at [your GitHub profile].
 
 ## calculator
 
